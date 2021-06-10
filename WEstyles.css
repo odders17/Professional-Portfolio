@@ -1,0 +1,21 @@
+.section {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    width: 200px;
+    height: 100px;
+  }
+  /* Uses hex code to define color */
+  .section-blue {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: white;
+    background-color:#2a607c ;
+  }  
+  
+  /* Purple and yellow are example of high contrast colors */
+  #section-1 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: white;
+    background-color:#2a607c;
+  }
+  
+  
+  
