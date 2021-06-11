@@ -44,7 +44,7 @@ header nav ul li {
     padding: 40px;
     width: 100%;
     flex-wrap: wrap;
-    display: block;
+    display: grid;
 }
 
 
