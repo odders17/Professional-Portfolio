@@ -1,13 +1,13 @@
 .section {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    width: 200px;
+    width: 300px;
     height: 300px;
     color: white;
     background-color:#2a607c ;
     display: grid;
   }
   .wrapper {
-    width: 500px;
+    width: 400px;
     display: grid;
     flex-wrap: wrap;
   }
