@@ -9,6 +9,16 @@
     color: darkblue;
 }
 
+.wrapper {
+    width: 600px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.wrapper > aside {
+    flex: 1 1 150px;
+}
+
 #email {
     background-color: goldenrod;
 }

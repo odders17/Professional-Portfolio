@@ -3,6 +3,14 @@
     width: 200px;
     height: 100px;
   }
+  .wrapper {
+    width: 500px;
+    display: flex;
+    flex-wrap: wrap;
+  }
+  .wrapper > div {
+    flex: 1 1 150 px
+  }
   /* Uses hex code to define color */
   .section-blue {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;

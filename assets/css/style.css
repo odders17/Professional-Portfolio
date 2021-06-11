@@ -33,6 +33,7 @@ header nav ul li {
     margin-left: 25px;
 }
 
+
 .statement {
     width: 150px;
     height: 220px;
@@ -45,3 +46,5 @@ header nav ul li {
     flex-wrap: wrap;
     display: block;
 }
+
+
