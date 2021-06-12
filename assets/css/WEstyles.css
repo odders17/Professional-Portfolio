@@ -9,6 +9,13 @@ body{
     background-color:#2a607c ;
     display: grid;
   }
+   
+  .section img:hover {
+    margin: 0;
+    width: 40%;
+    height: 90%;
+  }
+
   .wrapper {
     width: 400px;
     display: grid;
@@ -17,6 +24,7 @@ body{
   .wrapper > div {
     flex: 1 1 150 px
   }
+  
   
   
   
