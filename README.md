@@ -1,6 +1,6 @@
 # Professional-Portfolio
 
-This is a brief overview of my Portfolio. Its a quick snippet of my key attributes work I have done and experinces I have.
+This is a brief overview of my Portfolio. Its a quick snippet of my key attributes work I have done and experinces I have. I wanted to do this to showcase my ability as a computer programmer.
 
 Find the Live page here
 
