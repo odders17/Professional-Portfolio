@@ -54,5 +54,5 @@ header nav ul li {
 
 .me {
     width: 50%;
-    object-fit: cover;
+    object-fit: scale-down;
 }
