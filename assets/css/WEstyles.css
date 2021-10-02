@@ -1,3 +1,10 @@
+.topnav {
+  font-family: font sans;
+  font-size: large;
+  color: white;
+  list-style-type: none;
+}
+
 body{
   display: flex;
   flex-wrap: wrap;
