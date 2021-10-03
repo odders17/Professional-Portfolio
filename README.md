@@ -10,5 +10,7 @@ https://odders17.github.io/Professional-Portfolio/
 
 https://github.com/odders17/Professional-Portfolio
 
-![Webpage Screenshot](./assets/images/Screenshot(23).png)
-![Webpage Screenshot](./assets/images/Screenshot(7).png)
+![Webpage Screenshot](./assets/images/homePage.png)
+![Webpage Screenshot](./assets/images/contactMe.png)
+![Webpage Screenshot](./assets/images/workExamples.png)
+
